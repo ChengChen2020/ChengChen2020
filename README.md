@@ -9,8 +9,8 @@
 - Research Assistant at Multimedia Computing Group at NJU ```2020.01 ~ 2020.06```
 
 ### ⚡ Interests
+- 3D scene segmentation
 - 6D Pose estimation
-- Instance segmentation
 - Reinforcement learning systems
 
 #### Contact 📫 cheng.chen@nyu.edu
