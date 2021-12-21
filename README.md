@@ -11,7 +11,7 @@
 
 ### ⚡ Interests
 - 3D scene segmentation
-- 6D Pose estimation
+- 6D pose estimation
 - Real-Time Communication systems
 
 #### Contact 📫 cheng.chen@nyu.edu
