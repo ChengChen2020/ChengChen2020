@@ -6,7 +6,7 @@
 
 ### 🔭 Research
 - Research Assistant at [Multimedia and Visual Computing Lab](http://mmvc.engineering.nyu.edu/) at NYU ```2021.05 ~ ```
-- Graduate Assistant at [High Speed Networking Lab](https://research.engineering.nyu.edu/highspeed/) at NYU ```2021.09 ~ ```
+- Research Assistant at [High Speed Networking Lab](https://research.engineering.nyu.edu/highspeed/) at NYU ```2021.09 ~ ```
 - Research Assistant at [Multimedia Computing Group](http://mcg.nju.edu.cn/)  at NJU ```2020.01 ~ 2020.06```
 
 ### ⚡ Interests
