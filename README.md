@@ -3,7 +3,7 @@
 ### :mortar_board: Education
 - Incoming Ph.D. @ Purdue University
 - M.S. @ New York University `Sept 2020 ~ May 2022`
-    - The Myron M. Rosenthal Award for Best MS Academic Achievement in Electrical and Computer Engineering
+    - The Myron M. Rosenthal Award for Best MS Academic Achievement
 - B.S. @ Nanjing University `Sept 2016 ~ June 2020`
 
 ### 🔭 Research
