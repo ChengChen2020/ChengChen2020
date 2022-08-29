@@ -11,11 +11,6 @@
 - 3D vision (scene segmentation, classification)
 - Real-time communication systems
 
-### :office: Work
-- Teaching Assistant for ECE-GY 7123 Deep Learning at NYU
-    * Assist in creating mini-projects, including auto-grading scripts for project submissions.
-    * Hold lab sessions and office hours to handle student questions.
-
 ### 🔭 Research
 - Research Assistant at [Dependable Computing Systems Laboratory](https://engineering.purdue.edu/dcsl/) at Purdue ```2022.08 ~ ```
 - Research Assistant at [Multimedia and Visual Computing Lab](http://mmvc.engineering.nyu.edu/) at NYU ```2021.05 ~ ```
@@ -23,6 +18,11 @@
     - Non-Rigid Multiple Point Set Registration Using Latent Gaussian Mixture ([ICIP 2022](https://2022.ieeeicip.org/))
 - Research Assistant at [High Speed Networking Lab](https://research.engineering.nyu.edu/highspeed/) at NYU ```2021.09 ~ ```
 - Research Assistant at [Multimedia Computing Group](http://mcg.nju.edu.cn/)  at NJU ```2020.01 ~ 2020.06```
+
+### :office: Work
+- Teaching Assistant for ECE-GY 7123 Deep Learning at NYU
+    * Assist in creating mini-projects, including auto-grading scripts for project submissions.
+    * Hold lab sessions and office hours to handle student questions.
 
 ### 📫 Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheng.chen@nyu.edu) [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheng-chen-a74b221b6/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ccjuliusss/)
