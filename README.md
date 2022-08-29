@@ -11,7 +11,10 @@
 - 3D vision (scene segmentation, classification)
 - Real-time communication systems
 
-### Work
+### :office: Work
+- Teaching Assistant for ECE-GY 7123 Deep Learning at Purdue
+    ∗ Assist in creating mini-projects, including auto-grading scripts for project submissions.
+    ∗ Hold lab sessions and office hours to handle student questions.
 
 ### 🔭 Research
 - Research Assistant at [Dependable Computing Systems Laboratory](https://engineering.purdue.edu/dcsl/) at Purdue ```2022.08 ~ ```
