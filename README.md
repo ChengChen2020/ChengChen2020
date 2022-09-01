@@ -1,10 +1,10 @@
 ## Cheng Chen
 
 ### :mortar_board: Education
-- Ph.D. @ Purdue University `Aug 2022 ~`
-- M.S. @ New York University `Sept 2020 ~ May 2022`
+- Ph.D. @ [Purdue University](https://www.purdue.edu/purdue/about/index.php) `Aug 2022 ~`
+- M.S. @ [New York University](https://www.nyu.edu/about.html) `Sept 2020 ~ May 2022`
     - The Myron M. Rosenthal Award for Best MS Academic Achievement
-- B.S. @ Nanjing University `Sept 2016 ~ June 2020`
+- B.S. @ [Nanjing University](https://www.nju.edu.cn/EN/wbout/main.htm) `Sept 2016 ~ June 2020`
 
 ### ⚡ Interests
 - Adaptive vision system
@@ -30,3 +30,5 @@
 ![Cheng's github stats](https://github-readme-stats.vercel.app/api?username=ChengChen2020&show_icons=true&theme=merko)
 
 ![Cheng's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengChen2020&theme=merko)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChengChen2020&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
