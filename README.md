@@ -7,9 +7,8 @@
 - B.S. @ [Nanjing University](https://www.nju.edu.cn/EN/wbout/main.htm) `Sept 2016 ~ June 2020`
 
 ### ⚡ Interests
-- Adaptive vision system
-- 3D vision (scene segmentation, classification)
-- Real-time communication systems
+- AD, ADAS, 3D vision (scene segmentation, classification)
+- Adaptive vision system, performance and energy optimization on embeded GPUs
 
 ### 🔭 Research
 - Research Assistant at [Dependable Computing Systems Laboratory](https://engineering.purdue.edu/dcsl/) at Purdue ```2022.08 ~ ```
