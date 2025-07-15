@@ -7,7 +7,7 @@
 - B.S. @ [Nanjing University](https://www.nju.edu.cn/EN/wbout/main.htm) `Sept 2016 ~ June 2020`
 
 ### ⚡ Interests
-- AD, ADAS, 3D vision (scene segmentation, classification)
+- AD, ADAS, 3D vision (Semantic Occupancy Prediction, Object Detection, Scene Segmentation)
 - Adaptive vision system, performance and energy optimization on embeded GPUs
 
 ### 🔭 Research
