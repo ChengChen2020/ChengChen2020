@@ -12,6 +12,7 @@
 
 ### 🔭 Research
 - Research Assistant at [Dependable Computing Systems Laboratory](https://engineering.purdue.edu/dcsl/) at Purdue ```2022.08 ~ ```
+    - Vision-Only Gaussian Splatting for Collaborative Semantic Occupancy Prediction ([AAAI 2026 Oral](https://arxiv.org/abs/2508.10936))
 - Research Assistant at [Multimedia and Visual Computing Lab](http://mmvc.engineering.nyu.edu/) at NYU ```2021.05 ~ ```
     - Manifold Adversarial Learning for Cross-domain 3D Shape Representation ([ECCV 2022](https://eccv2022.ecva.net/))
     - Non-Rigid Multiple Point Set Registration Using Latent Gaussian Mixture ([ICIP 2022](https://2022.ieeeicip.org/))
