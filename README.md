@@ -1,7 +1,7 @@
 ## Cheng Chen
 
 ### :mortar_board: Education
-- Ph.D. @ [Purdue University](https://www.purdue.edu/purdue/about/index.php) `Aug 2022 ~`
+- Ph.D. @ [Purdue University](https://www.purdue.edu/purdue/about/index.php) `Aug 2022 ~ Dec 2027`
 - M.S. @ [New York University](https://www.nyu.edu/about.html) `Sept 2020 ~ May 2022`
   - The Myron M. Rosenthal Award for Best MS Academic Achievement
 - B.S. @ [Nanjing University](https://www.nju.edu.cn/EN/wbout/main.htm) `Sept 2016 ~ June 2020`
@@ -18,6 +18,7 @@
   - Non-Rigid Multiple Point Set Registration Using Latent Gaussian Mixture ([ICIP 2022](https://2022.ieeeicip.org/))
 
 ### :office: Work
+- Waymo Perception PhD intern, May-Aug 2026
 - Teaching Assistant for ECE 47700/49595 [Digital System Senior Design](https://eceseniordesign.com/) at Purdue
 - Teaching Assistant for ECE 20001 Electrical Engineering Fundamentals at Purdue
 - Teaching Assistant for ECE-GY 7123 / CS-GY 9123 Deep Learning at NYU
